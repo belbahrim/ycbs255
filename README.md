@@ -1,1 +1,1 @@
-# Computational Applied Statistics
+# YCBS255 - Statistical Machine Learning
